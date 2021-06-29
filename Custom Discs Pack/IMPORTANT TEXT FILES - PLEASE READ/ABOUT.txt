@@ -1,0 +1,22 @@
+    _   ___  ___  _   _ _____ 
+   /_\ | _ )/ _ \| | | |_   _|
+  / _ \| _ \ (_) | |_| | | |  
+ /_/ \_\___/\___/ \___/  |_|  
+
+   This pack is a bit unusual compared to others, and for that I apologize. I know most people might not like D.I.Y. resource pack stuff, but trust me when I say this was absolutely necessesary for both of us to not lose sleep and/or hair over this process.
+
+   Instead of replacing the music myself, I've gone ahead and given you the music so that you can replace it how you wish. On top of that, I'm gonna tell you how to replace the disc item texture with some that I've made and how to change the description underneath the music disc item (the line that says stuff like "C418 - Cat") so that it matches the music you've changed it to.
+
+   You can think of this like a LEGO set almost. I've given you the pieces and instructions, but it's entirely up to you to make this how you want. I figure some people would prefer to replace a music disc of their choosing rather than deal with whatever I had chosen to be replaced, and besides doing the insanely tedious task of making a separate resource pack for each of the 13 music discs, this was the best way to go about it. So, I hope you can understand why this pack is so weird, and I hope it's not too much of an inconvenience.
+
+If you've got questions about this pack, go to the QUESTIONS.txt file included in the IMPORTANT TEXT FILES folder.
+
+If you need a tutorial on how to replace a disc, open the TUTORIAL.txt file.
+
+If you want to know about my policy on sharing my work, please read the SHARING.txt file.
+
+Thanks for downloading.
+
+Much love. <3
+
+- ATOMICtheCrow

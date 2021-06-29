@@ -1,0 +1,50 @@
+   ___  _   _ ___ ___ _____ ___ ___  _  _ ___ 
+  / _ \| | | | __/ __|_   _|_ _/ _ \| \| / __|
+ | (_) | |_| | _|\__ \ | |  | | (_) | .` \__ \
+  \__\_\\___/|___|___/ |_| |___\___/|_|\_|___/
+          
+
+1. FOR PARENTS OR ANYONE WITH POTENTIAL WORRIES:
+---
+
+Q: What are resource packs? Can they permanently ruin the game?
+
+A: Resource packs are developer-intended ways to change assets without actually removing the assets that the game comes with, such as sounds or textures. So, no, there's no way for a resource pack to permanently harm your Minecraft game.
+
+
+Q: Is modifying Minecraft like this potentially unsafe? Can I get viruses from it?
+
+A: If you've downloaded this pack from planetminecraft.com then no, this pack does not contain a virus. If it did, it probably wouldn't contain a tutorial or q&a (that would be far too much effort for a virus), and it would have been removed pretty fast.
+  But, like all things on the internet, if you're not careful about which site you download things from, you could potentially get a virus on a PC. Be wary of what sites are and are not trustworthy, such as sites that come up as an "ad" upon a Google search, or sites that don't outright tell you what files you'll be downloading upon clicking a download button.
+
+
+Q: Can I trust you?
+
+A: A good question, as I'm just a stranger on the internet. But don't worry, I just love giving people options to modify Minecraft in however they like. I am, to put it bluntly, just some 19 year old kid making neat things for the game I grew up with.
+
+
+
+
+2. FOR OTHER FOLKS WITH POTENTIAL QUESTIONS:
+---
+
+Q: Why does this pack have to be so convoluted?
+
+A: Please read the ABOUT.txt included in the IMPORTANT TEXT FILES folder. Believe me, I would have loved to make this simpler for people, but that is a lot of tedious work I simply don't have enough patience to do. And, with this method, you're completely able to change the game how YOU prefer with the textures that I've made and the music that I've presented.
+
+
+Q: Will other packs you make be this convoluted?
+
+A: Probably not. This was a spur-of-the-moment idea that needed a drawn-out system to make it work.
+
+
+Q: Why is there so much caps lock going on?
+
+A: I HAVE NO IDEA WHAT YOU MEAN.
+
+
+If you've got any questions that aren't listed here, go ahead and shoot me a comment on the PlanetMinecraft page for this pack.
+
+https://www.planetminecraft.com/texture-pack/custom-music-discs-diy-pack/
+
+- ATOMICtheCrow
